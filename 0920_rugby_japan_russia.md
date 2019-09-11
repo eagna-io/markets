@@ -5,7 +5,7 @@
 
 ## 報酬
 
-- [Starbucks Coffee　フードチケット](https://giftee.co/gifts/detail/652/sku/629)
+- [Starbucks Coffee　フードチケット](https://giftee.co/gifts/detail/1102/sku/1535)
 - ランダムに**3枚**
 - **選ばれる確率はマーケットresolve時に保有しているコインの量に比例する。**
 
